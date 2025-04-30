@@ -65,8 +65,11 @@ For legal inquiries regarding this software, please contact:
 
 **Xiteb Pvt Ltd**  
 Registration Number: PV75792
+
 Email: hello@xiteb.com
+
 Website: [Xiteb](https://xiteb.com/)
+
 Address: #123, 2nd Floor, McLarens Building, Bauddhaloka Mw, Colombo 4, SL
 
 ---

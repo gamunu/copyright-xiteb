@@ -74,6 +74,8 @@ Copyright © 2025 Xiteb Pvt Ltd (PV75792). All rights reserved.
 
 ---
 
-Xiteb Pvt Ltd  
-Registration Number: PV75792  
+Xiteb Pvt Ltd
+
+Registration Number: PV75792
+
 Country of Registration: Sri Lanka
